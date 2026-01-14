@@ -1,0 +1,10 @@
+# Frontend
+hotelbediax-frontend/node_modules
+hotelbediax-frontend/dist
+hotelbediax-frontend/.env
+
+# Backend
+hotelbediax-backend/bin
+hotelbediax-backend/obj
+hotelbediax-backend/*.user
+hotelbediax-backend/*.vs
