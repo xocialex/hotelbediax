@@ -1,10 +1,22 @@
-# Frontend
-hotelbediax-frontend/node_modules
-hotelbediax-frontend/dist
+#F
+hotelbediax-frontend/node_modules/
+hotelbediax-frontend/dist/
 hotelbediax-frontend/.env
+hotelbediax-frontend/.vite/
 
-# Backend
-hotelbediax-backend/bin
-hotelbediax-backend/obj
-hotelbediax-backend/*.user
-hotelbediax-backend/*.vs
+#B
+hotelbediax-backend/HotelBediaX.Api/bin/
+hotelbediax-backend/HotelBediaX.Api/obj/
+hotelbediax-backend/HotelBediaX.Api/*.user
+hotelbediax-backend/.vs/
+hotelbediax-backend/**/*.log
+hotelbediax-backend/**/TestResults/
+
+
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+.vscode/
