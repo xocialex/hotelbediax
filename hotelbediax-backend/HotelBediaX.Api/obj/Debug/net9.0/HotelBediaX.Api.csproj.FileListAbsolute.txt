@@ -34,3 +34,4 @@ C:\Users\XOCIALEX\Desktop\Prueba Técnica\hotelbediax-backend\HotelBediaX.Api\ob
 C:\Users\XOCIALEX\Desktop\Prueba Técnica\hotelbediax-backend\HotelBediaX.Api\obj\Debug\net9.0\HotelBediaX.Api.pdb
 C:\Users\XOCIALEX\Desktop\Prueba Técnica\hotelbediax-backend\HotelBediaX.Api\obj\Debug\net9.0\HotelBediaX.Api.genruntimeconfig.cache
 C:\Users\XOCIALEX\Desktop\Prueba Técnica\hotelbediax-backend\HotelBediaX.Api\obj\Debug\net9.0\ref\HotelBediaX.Api.dll
+C:\Users\XOCIALEX\Desktop\Prueba Técnica\hotelbediax-backend\HotelBediaX.Api\obj\Debug\net9.0\HotelBediaX.Api.sourcelink.json
